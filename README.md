@@ -33,3 +33,18 @@ The system operates sequentially:
 * Boolean flags (`tl1_red`, `tl2_red`, etc.) help control light transitions
 * `allRedOn()` is called once at the beginning to ensure a safe initial state
 
+## Code Logic Diagram
+
+<p align="center">
+  <img src="Code Logic.png" alt="Code Logic Diagram" width="600"/>
+</p>
+
+---
+
+## Circuit Connection Diagram
+
+<p align="center">
+  <img src="Connection Diagram.png" alt="Circuit Connection Diagram" width="600"/>
+</p>
+
+
